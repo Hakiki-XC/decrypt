@@ -19,6 +19,7 @@ python dec.pyc
 
 # screenshot
 <img src="https://github.com/Hakiki-XC/decrypt/blob/main/Screenshot_2021-05-03-15-38-05-526_com.termux.jpg">
-# note jika ada bug bisa lapor ke saya
+# note 
+jika ada bug bisa lapor ke saya
 
-no sayang : 085946352369
+no gw : 085946352369
